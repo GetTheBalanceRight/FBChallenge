@@ -1,8 +1,8 @@
 # FBChallenge
 
 to run:
-
-npm i
-tsc
-node app
+<br><br>
+npm i<br>
+tsc<br>
+node app<br>
 
